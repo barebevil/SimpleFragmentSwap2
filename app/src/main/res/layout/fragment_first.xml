@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_blue_light"
+    tools:context="com.derekpoon.simplefragmentswap2.FirstFragment">
+
+    <Button
+        android:id="@+id/btn_main_frag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_main_frag"/>
+
+    <TextView
+        android:id="@+id/text_view_frag1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="36sp"
+        android:text="@string/text_first_frag" />
+
+</LinearLayout>

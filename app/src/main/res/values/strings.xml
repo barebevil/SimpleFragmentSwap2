@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Fragment Swap 2</string>
+    <string name="text_main_frag">Main fragment</string>
+    <string name="text_first_frag">First fragment</string>
+    <string name="text_second_frag">Second fragment</string>
+    <string name="button_main_frag">Main fragment</string>
+    <string name="button_frag1">Fragment 1</string>
+    <string name="button_frag2">Fragment 2</string>
+</resources>
